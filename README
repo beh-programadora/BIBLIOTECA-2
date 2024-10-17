@@ -1,0 +1,27 @@
+# Nome do Projeto
+
+## Descrição do Projeto
+Descrição breve do que o projeto faz e seus objetivos.
+
+## Requisitos de Sistema
+- Python 3.x
+- Sistema operacional compatível (Windows, macOS, Linux)
+
+## Bibliotecas Necessárias
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+## Instruções de Execução
+1. Clone este repositório.
+2. Instale as dependências com o comando:
+   ```bash
+   pip install -r requirements.txt
+
+3. Execute o script principal:
+python src/main.py
+
+Resultados Principais
+Inclua gráficos ou insights gerados aqui ou referência a seções do projeto onde eles podem ser encontrados.
