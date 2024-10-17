@@ -1,0 +1,17 @@
+meu_projeto/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── src/
+│   ├── main.py              # Script principal para execução
+│   ├── data_processing.py    # Módulo para processamento de dados
+│   ├── visualization.py       # Módulo para visualização de dados
+│   ├── model.py              # Módulo para treinamento e avaliação de modelos
+│   └── utils.py              # Funções utilitárias (opcional)
+│
+└── dataset/
+    ├── dados_brutos/        # Dados brutos (não rastreados pelo Git)
+    ├── dados_limpos.csv     # Dados processados para análise
+    └── ...                  # Outros arquivos de dados, se necessário
