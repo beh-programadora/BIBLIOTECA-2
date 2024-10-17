@@ -1,0 +1,46 @@
+# Ignorar dados brutos
+dataset/dados_brutos/
+# Ignorar dados processados
+dataset/dados_limpos.csv
+
+# Ignorar arquivos de resultados
+resultado/
+*.png
+*.jpg
+*.jpeg
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar arquivos de configuração do IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de cache
+*.pkl
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+
+# Ignorar arquivos de configuração
+*.DS_Store
+Thumbs.db
