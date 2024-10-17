@@ -1,0 +1,13 @@
+Explicação das Colunas:
+id: Um identificador único para cada produto.
+nome: O nome do produto.
+categoria: A categoria à qual o produto pertence (Vestuário, Calçados, Acessórios).
+preco: O preço do produto.
+quantidade_estoque: A quantidade disponível em estoque.
+data_adicao: A data em que o produto foi adicionado ao estoque.
+Criando o Arquivo CSV
+Você pode criar esse dataset em um arquivo chamado dataset.csv usando um editor de texto ou uma ferramenta como o Excel. Para fazer isso:
+
+Abra um editor de texto ou o Excel.
+Copie o conteúdo acima e cole no editor de texto ou em uma planilha.
+Salve o arquivo como dataset.csv.
